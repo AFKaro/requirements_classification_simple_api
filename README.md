@@ -9,13 +9,12 @@ source venv/bin/activate
 
 2. Install libs
 ```
-pip install -r re_classify/requirements.txt 
+pip install -r requirements.txt 
 ```
 
 
 3. Run api
 ```
-cd re_classify/
 python manage.py runserver
 ```
 
