@@ -22,3 +22,6 @@ python manage.py runserver
 ```
 (http://127.0.0.1:8000/)
 ```
+
+### Classificação de requisitos de software: 
+https://github.com/MachineResearchGroup/SoftwareLab-AI
